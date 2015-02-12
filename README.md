@@ -4,8 +4,8 @@
 This font contains all the icons designd en used by Scouts en Gidsen Vlaanderen in Belguim.
 
 ## Installation
-Add the fonts and css folder to your website folder.
-Example:
+Add the fonts and css folder to your website folder.<br>
+Example:<br>
   index.html<br>
 	css/scoutsengidsenvlaanderen.css<br>
 	fonts/scoutsengidsenvlaanderen.svg<br>
