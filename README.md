@@ -18,12 +18,14 @@ Link the css file in your html head.
 
 ## Usage HTML
 <!-- replace the class to the icon of your choice. -->
-<span class="icon-int-scouts"></span>
+<pre><span class="icon-int-scouts"></span></pre>
 
 ## Usage CSS
+<pre>
 /* replace the class to the icon of your choice. */
 .icon-int-scouts:before {
   content: "\e600";
 }
+</pre>
 
 
