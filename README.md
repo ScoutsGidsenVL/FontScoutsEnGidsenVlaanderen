@@ -20,7 +20,7 @@ Link the css file in your html head.
 ## Usage HTML
 
 <pre>
-&lt;!-- replace the class to the icon of your choice. --gt;
+&lt;!-- replace the class to the icon of your choice. --&gt;
 &lt;span class=&quot;icon-int-scouts&quot;&gt;&lt;/span&gt;
 </pre>
 
