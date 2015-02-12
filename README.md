@@ -14,11 +14,13 @@ for example:
 	fonts/scoutsengidsenvlaanderen.eot
 
 Link the css file in your html head.
-<link rel="stylesheet" href="css/scoutsengidsenvlaanderen.css">
-
+&lt;link rel="stylesheet" href="css/scoutsengidsenvlaanderen.css"&gt;
 ## Usage HTML
+
+<pre>
 <!-- replace the class to the icon of your choice. -->
-<pre><span class="icon-int-scouts"></span></pre>
+&lt;span class=&quot;icon-int-scouts&quot;&gt;&lt;/span&gt;
+</pre>
 
 ## Usage CSS
 <pre>
