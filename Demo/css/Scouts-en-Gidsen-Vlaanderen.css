@@ -1,0 +1,143 @@
+@font-face {
+	font-family: 'Scouts-en-Gidsen-Vlaanderen';
+	src:url('../fonts/Scouts-en-Gidsen-Vlaanderen.eot?96su6b');
+	src:url('../fonts/Scouts-en-Gidsen-Vlaanderen.eot?#iefix96su6b') format('embedded-opentype'),
+		url('../fonts/Scouts-en-Gidsen-Vlaanderen.woff?96su6b') format('woff'),
+		url('../fonts/Scouts-en-Gidsen-Vlaanderen.ttf?96su6b') format('truetype'),
+		url('../fonts/Scouts-en-Gidsen-Vlaanderen.svg?96su6b#Scouts-en-Gidsen-Vlaanderen') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.scouts {
+	font-family: 'Scouts-en-Gidsen-Vlaanderen';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Internationaal */
+.scouts-int-scouts:before {
+	content: "\53";
+}
+.scouts-int-scouts-color:before {
+	content: "\53";
+	color: #5f1d7f;
+}
+.scouts-int-scouts-full:before {
+	content: "\46";
+}
+.scouts-int-scouts-full-color:before {
+	content: "\46";
+	color: #5f1d7f;
+}
+.scouts-int-gidsen:before {
+	content: "\47";
+}
+.scouts-int-gidsen-color:before {
+	content: "\47";
+	color: #0063a7;
+}
+
+
+/* Scouts en Gidsen Vlaanderen */
+.scouts-scoutsgidsenvl:before {
+	content: "\56";
+}
+.scouts-scoutsgidsenvl-color:before {
+	content: "\56";
+	color: #758e3a;
+}
+.scouts-zeescouting:before {
+	content: "\5a";
+}
+.scouts-zeescouting-color:before {
+	content: "\5a";
+	color: #004878;
+}
+
+
+
+/* Groepen */
+.scouts-kapoenen-zeehondjes:before {
+	content: "\4f";
+}
+.scouts-kapoenen-zeehondjes-color:before {
+	content: "\4f";
+	color: #dcef07;
+}
+.scouts-zee-kabouters-welpen:before {
+	content: "\4b";
+}
+.scouts-zee-kabouters-welpen-color:before {
+	content: "\4b";
+	color: #298e40;
+}
+.scouts-jonggidsen-jongverkenners-scheepsmakkers:before {
+	content: "\4a";
+}
+.scouts-jonggidsen-jongverkenners-scheepsmakkers-color:before {
+	content: "\4a";
+	color: #fb8b05;
+}
+.scouts-zee-gidsen-verkenners:before {
+	content: "\54";
+}
+.scouts-zee-gidsen-verkenners-color:before {
+	content: "\54";
+	color: #0d29d3;
+}
+.scouts-jins-loodsen:before {
+	content: "\49";
+}
+.scouts-jins-loodsen-color:before {
+	content: "\49";
+	color: #b1031c;
+}
+.scouts-akabe:before {
+	content: "\45";
+}
+.scouts-akabe-color:before {
+	content: "\45";
+	color: #bb4599;
+}
+.scouts-leiding:before {
+	content: "\4c";
+}
+.scouts-leiding-color:before {
+	content: "\4c";
+	color: #730ccd;
+}
+
+
+
+/* Hopper */
+.scouts-hopper-wnkl:before {
+	content: "\48";
+}
+.scouts-hopper-wnkl-color:before {
+	content: "\48";
+	color: #b6121b;
+}
+
+.scouts-hopper-jgd:before {
+	content: "\42";
+}
+.scouts-hopper-jgd-color:before {
+	content: "\42";
+	color: #727b34;
+}
+.scouts-hopper:before {
+	content: "\52";
+}
+.scouts-hopper-color:before {
+	content: "\52";
+	color: #000000;
+}

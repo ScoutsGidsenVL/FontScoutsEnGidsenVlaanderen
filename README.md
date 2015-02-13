@@ -7,15 +7,15 @@ This font contains all the icons designd en used by Scouts en Gidsen Vlaanderen 
 Add the fonts and css folder to your website folder.<br>
 Example:<br>
   index.html<br>
-	css/scoutsengidsenvlaanderen.css<br>
-	fonts/scoutsengidsenvlaanderen.svg<br>
-	fonts/scoutsengidsenvlaanderen.ttf<br>
-	fonts/scoutsengidsenvlaanderen.woff<br>
-	fonts/scoutsengidsenvlaanderen.eot<br>
+	css/Scouts-en-Gidsen-Vlaanderen.css<br>
+	fonts/Scouts-en-Gidsen-Vlaanderen.svg<br>
+	fonts/Scouts-en-Gidsen-Vlaanderen.ttf<br>
+	fonts/Scouts-en-Gidsen-Vlaanderen.woff<br>
+	fonts/Scouts-en-Gidsen-Vlaanderen.eot<br>
 
 Link the css file in your html head.
 <pre>
-&lt;link rel="stylesheet" href="css/scoutsengidsenvlaanderen.css"&gt;
+&lt;link rel="stylesheet" href="css/Scouts-en-Gidsen-Vlaanderen.css"&gt;
 </pre>
 ## Usage HTML
 
