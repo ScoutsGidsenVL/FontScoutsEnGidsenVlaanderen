@@ -21,8 +21,8 @@ Link the css file in your html head.
 ## Usage HTML
 
 ```html
-<!-- replace the class to the icon of your choice. -->;
-<span class=&quot;icon-int-scouts&quot;&gt;&lt;/span&gt;
+<!-- replace the class to the icon of your choice. -->
+<span class="icon-int-scouts"></span>
 ```
 
 ## Usage CSS
