@@ -15,7 +15,7 @@ Example:<br>
 
 Link the css file in your html head.
 
-```
+```html
 <link rel="stylesheet" href="css/Scouts-en-Gidsen-Vlaanderen.css">
 ```
 ## Usage HTML
