@@ -14,22 +14,21 @@ Example:<br>
 	fonts/Scouts-en-Gidsen-Vlaanderen.eot<br>
 
 Link the css file in your html head.
-<pre>
-&lt;link rel="stylesheet" href="css/Scouts-en-Gidsen-Vlaanderen.css"&gt;
-</pre>
+
+```html
+<link rel="stylesheet" href="css/Scouts-en-Gidsen-Vlaanderen.css">
+```
 ## Usage HTML
 
-<pre>
-&lt;!-- replace the class to the icon of your choice. --&gt;
-&lt;span class=&quot;icon-int-scouts&quot;&gt;&lt;/span&gt;
-</pre>
+```html
+<!-- replace the class to the icon of your choice. -->;
+<span class=&quot;icon-int-scouts&quot;&gt;&lt;/span&gt;
+```
 
 ## Usage CSS
-<pre>
+```css
 /* replace the class to the icon of your choice. */
 .icon-int-scouts:before {
   content: "\e600";
 }
-</pre>
-
-
+```
