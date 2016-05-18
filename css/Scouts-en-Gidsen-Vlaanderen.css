@@ -9,7 +9,7 @@
     font-style: normal;
 }
 
-.scouts {
+.scouts-font {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'Scouts-en-Gidsen-Vlaanderen' !important;
     speak: none;
@@ -154,7 +154,8 @@
 }
 .scouts-groepsleiding:before {
     content: "\e901";
-}.scouts-groepsleiding-color:before {
+}
+.scouts-groepsleiding-color:before {
 	color: #572700;
     content: "\e901";
 }

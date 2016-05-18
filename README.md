@@ -41,4 +41,4 @@ Import al the source files
 Preferences
 * Font name: `Scouts-en-Gidsen-Vlaanderen`
 * Class prifix: `scouts`
-* CSS selector use a class: `.scouts` 
+* CSS selector use a class: `.scouts-font` 
